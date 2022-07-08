@@ -1,0 +1,3 @@
+Cześć!
+Jest tu nowy i dopiero się uczę ale mam nadzieję, że uda mi się opanować
+podstawy programowania z @TheOdinProject!
